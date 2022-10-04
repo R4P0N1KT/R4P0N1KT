@@ -9,5 +9,5 @@
   <img align="center" alt="Raponi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 <div>
-  ![snake gif](https://github.com/R4P0N1KT/R4P0N1KT/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/R4P0N1KT/R4P0N1KT/blob/output/github-contribution-grid-snake.svg)
 </div>
